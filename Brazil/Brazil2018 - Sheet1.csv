@@ -1,0 +1,46 @@
+RANK,SIZE,FARM / CWS,PRODUCER,REGION,SCORE,VARIETY,PROCESS
+1a,6,Fazenda Paraíso,Maria do Carmo Andrade – Andrade Bros,Cerrado Mineiro,93.26,Catuaí Vermelho,Natural
+1b,6,Fazenda Paraíso,Maria do Carmo Andrade – Andrade Bros,Cerrado Mineiro,93.26,Catuaí Vermelho,Natural
+2a,7,Fazenda São Pedro,Robson Vilela Martins,Mantiqueira de Minas,92.06,Catucaí Amarelo,Natural
+2b,6,Fazenda São Pedro,Robson Vilela Martins,Mantiqueira de Minas,92.06,Catucaí Amarelo,Natural
+3a,7,Chácara São Severino,Salvador da Paixão Mesquita,Chapada Diamantina,91.91,Catuaí 144,Natural
+3b,6,Chácara São Severino,Salvador da Paixão Mesquita,Chapada Diamantina,91.91,Catuaí 144,Natural
+4a,5,Chácara Vista Alegre,José Renato Rodrigues Alves,Chapada Diamantina,91.35,Catuaí 144,Natural
+4b,6,Chácara Vista Alegre,José Renato Rodrigues Alves,Chapada Diamantina,91.35,Catuaí 144,Natural
+5a,6,Fazenda Campo Alegre,Silvia Dias Cambraia,Sul de Minas,91.09,Catucaí,Natural
+5b,6,Fazenda Campo Alegre,Silvia Dias Cambraia,Sul de Minas,91.09,Catucaí,Natural
+6a,6,Sítio da Torre,Alvaro Antônio Pereira Coli,Mantiqueira de Minas,90.74,Bourbon Amarelo,Natural
+6b,6,Sítio da Torre,Alvaro Antônio Pereira Coli,Mantiqueira de Minas,90.74,Bourbon Amarelo,Natural
+7a,6,Fortaleza,Augusto Borges Ferreira,Mantiqueira de Minas,90.18,Catuaí Vermelho 99,Natural
+7b,6,Fortaleza,Augusto Borges Ferreira,Mantiqueira de Minas,90.18,Catuaí Vermelho 99,Natural
+8a,5,Fazenda Fortaleza,Alessandro Alves Hervaz,Mantiqueira de Minas,90.15,Bourbon Amarelo,Natural
+8b,6,Fazenda Fortaleza,Alessandro Alves Hervaz,Mantiqueira de Minas,90.15,Bourbon Amarelo,Natural
+9,12,Fazenda Bela Época,Luiz da Cunha Sobrinho,Alta Mogiana,89.5,Catucaí Amarelo 2SL,Natural
+10,30,Nossa Senhora Aparecida,Roney Dias Villela,Mantiqueira de Minas,89.41,Bourbon Amarelo,Natural
+11,24,Sitio Nossa Senhora Aparecida,Marlise Pereira Junqueira,Mantiqueira de Minas,89.38,Bourbon Amarelo,Natural
+12,12,Fazenda Espigão do Palmital,Edu Leandro Melo,Cerrado Mineiro,89.26,CatiguáMG2,Natural
+13,12,Fazenda Santa Rita – Central Mattos,Filomena Estefânia de Mattos Couto,Cerrado Mineiro,89.26,Topázio Amarelo,Natural
+14,12,Sitio Grota Fria,Ademilson Noiman Borges,Mantiqueira de Minas,89.03,Mundo Novo,Natural
+15,19,Fazenda Alto da Serra,Valdeci Domingos Nascimento,Sul de Minas,88.91,Catuaí Amarelo,Natural
+16,15,Fazenda Pedra Preta,Antônio Fortes Bustamante,Mantiqueira de Minas,88.85,Bourbon Amarelo,Natural
+17,12,Fazenda Barinas,Marcio Borges Castro Alves,Cerrado Mineiro,88.79,Bourbon Amarelo,Natural
+18,20,Fazenda Cachoeira da Grama,Gabriel de Carvalho Dias,Média Mogiana,88.65,Bourbon,Natural
+19,12,Sitio do Bone,Vanderlei Paulo Martins,Matas de Minas,88.35,catuaí,Natural
+20,18,Sítio Mandioca,Ronaldo Reis Madeira,Sul de Minas,88.32,Catuaí Vermelho,Natural
+21,12,Fazenda Claudio,Vitor Marcelo Queiroz Barbosa,Cerrado Mineiro,88.21,Catuai Amarelo 62,Natural
+22,12,Fazenda Vitória,Lissa Fukuda Marra,Cerrado Mineiro,88.15,Maragogipe,Natural
+23,18,Chácara Capãozinho,Glayco Barbosa,Chapada Diamantina,88.09,Catuaí 144,Natural
+24,30,Sitio Santo Antonio,Vicente Vanildo Do Nascimento,Mantiqueira de Minas,87.91,Catucaí Amarelo,Natural
+25,12,Fazenda Sertãozinho,Fazenda Sertãozinho LTDA.,Sul de Minas,87.88,Arara,Natural
+26,14,Sitio Alto da Serra,Domiciano Paulo Gonçalves,Mantiqueira de Minas,87.79,Catuaí Vermelho,Natural
+27,12,Sitio Córrego dos Machados,Antonio Marcio Lopes,Matas de Minas,87.79,Catuai 44,Natural
+28,12,Sítio São Francisco,Adriana De Barros Rodrigues,Mantiqueira de Minas,87.76,Bourbon Amarelo,Natural
+29,15,Fazenda Nossa Senhora Aparecida,Edmo Junqueira Villela,Mantiqueira de Minas,87.59,Bourbon Amarelo,Natural
+30,16,Sítio Córrego Grande,Sérgio dos Reis Oliveira,Sul de Minas,87.59,Catucaí Amarelo,Natural
+31,20,Sítio Santa Terezinha,Edson Rosa Garcia,Mantiqueira de Minas,87.56,Catucaí Amarelo,Natural
+32,30,Fazenda Do Sertão,Nazareth Dias Pereira E Outros,Mantiqueira de Minas,87.53,Bourbon amarelo,Natural
+33,12,Fazenda São Bento,Rodrigo de Castro Andrade – Andrade Bros,Cerrado Mineiro,87.41,Catuaí Vermelho,Natural
+34,11,Fazenda Esperança,Bruno Oliveira Sidney de Souza,Cerrado Mineiro,87.41,Icatu Amarelo,Natural
+35,12,Serra Do Triunfo,Wagner Teodoro Da Silva,Mantiqueira de Minas,87.21,Catuaí Amarelo,Natural
+36,12,Fazenda São Sebastião,Jung H. Kim,Sul de Minas,87.12,Bourbon Amarelo,Natural
+37,12,Fazenda Santo André,Dimap S.A,Cerrado Mineiro,86.91,Catiguá,Natural

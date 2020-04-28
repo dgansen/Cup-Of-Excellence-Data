@@ -1,0 +1,31 @@
+RANK,WEIGHT (kg),FARM,FARMER,REGION,SCORE,VARIETY,PROCESS
+1a,180,Fazenda Paie Filho,André Luis Aguila Ribeiro,Sul de Minas,92.23,Yellow Catuaí,Natural
+1b,180,Fazenda Paie Filho,André Luis Aguila Ribeiro,Sul de Minas,92.23,Yellow Catuaí,Natural
+2a,150,Fazenda Primavera,Leonardo Montesanto Tavares,Chapada de Minas,92.15,Gesha,Natural Anaerobic
+2b,150,Fazenda Primavera,Leonardo Montesanto Tavares,Chapada de Minas,92.15,Gesha,Natural Anaerobic
+3a,180,Sítio São Sebastião,Merce Jordan Araújo Silva,Chapada Diamantina,91.84,Red Catuaí,Pulped Natural
+3b,180,Sítio São Sebastião,Merce Jordan Araújo Silva,Chapada Diamantina,91.84,Red Catuaí,Pulped Natural
+4,300,Santuário Sul,Santuário Sul,Mantiqueira de Minas,90.61,Gesha,Natural
+5,360,Fazenda Jaguara,André Luiz Alvarenga Garcia,Campo das Vertentes,90.47,Yellow Catuaí,Natural Anaerobic
+6,300,Sítio d’Água Limpa,Marianna Carneiro de Carvalho Junqueira,Sul de Minas,89.7,Red Catucaí,Natural
+7,600,Fazenda Gerais,João Roberto Santana,Chapada Diamantina,89.58,Catuaí 144,Pulped Natural
+8,360,Sítio Portella,Edir José de Carvalho,Sul de Minas,88.88,Yellow Catucaí,Natural
+9,360,Fazenda Santo Antônio,Raimundo Dimas Santana Filho,Matas de Minas,88.8,Yellow Bourbon,Pulped Natural
+10,360,Fazenda Aterradinho,Lilian Carrijo,Sul de Minas,88.61,Catucaí 2SL,Natural
+11,420,Fazenda Volta da Serra,Agnaldo Martins de Assunção,Chapada Diamantina,88.5,Red Catuaí,Pulped Natural
+12,360,Ecoagrícola Café Ltda,Ecoagrícola Café Ltda,Chapada de Minas,88.46,Catucaí 2SL,Natural
+13,330,Sítio Lagoa II,José Wanderley Viana,Mantiqueira de Minas,88.36,Yellow Catucaí,Natural
+14,330,Sítio dos Colis,Adila Pereira Coli,Mantiqueira de Minas,88.29,Yellow Bourbon,Pulped Natural
+15,330,Fazenda Mantissa,Mauro Billi,Sul de Minas,88.14,Yellow Bourbon,Natural
+16,420,Fazenda Sertãozinho,Fazenda Sertãozinho,Sul de Minas,88.04,Arara,Natural
+17,360,Fazenda Paraíso,Jorge Barakat,Cerrado Mineiro,88.02,Catuaí 144,Pulped Natural
+18,360,Fazenda Dona Neném,Eduardo Pinheiro Campos,Cerrado Mineiro,87.8,Yellow Bourbon,Natural
+19,480,Fazenda Zaroca,Gilberto Augusto Cainelli Basilio,Sul de Minas,87.69,Yellow Bourbon,Natural
+20,360,Fazenda Fortaleza,Alessandro Alves Hervaz,Mantiqueira de Minas,87.68,Yellow Bourbon,Natural
+21,360,Fazenda Camocim,Henrique Leivas Sloper de Araújo,Montanhas do Espírito Santo,87.68,Catucaí Açu-Iapar 59,Pulped Natural
+22,450,Sítio Santa Terezinha,Edson Rosa Garcia,Mantiqueira de Minas,87.54,Acaiá,Natural
+23,360,Fazenda Barreiro,Francisco Otávio Lotufo,Sul de Minas,87.52,Yellow Bourbon,Pulped Natural
+24,330,Sítio Fortaleza,Júlio Cesar Ferreira,Mantiqueira de Minas,87.48,Yellow Bourbon,Natural
+25,360,Sítio dos Estouros,José Mauro Miranda,Matas de Minas,87.43,Catuaí 44,Pulped Natural
+26,360,Fazenda Santa Mônica,Jean Vilhena Faleiros,Sul de Minas,87.34,Yellow Bourbon,Natural
+27,360,Nascentes da Grama,Clayton Mapelli Cerri,Média Mogiana,87.16,Obatã,Natural
