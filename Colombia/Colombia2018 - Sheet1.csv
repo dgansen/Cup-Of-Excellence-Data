@@ -1,0 +1,37 @@
+RANK,SIZE (30KG BOXES),FARM / CWS,PRODUCER,REGION,SCORE,VARIETY,PROCESS
+1a,7,Cumaral,Andres Londoño Montoya,"Montenegro, Quindio",91.35,Geisha Bourbón,Washed
+1b,7,Cumaral,Andres Londoño Montoya,"Montenegro, Quindio",91.35,Geisha Bourbón,Washed
+2a,6 (+1 partial),La España 1,Duberney Cifuentes Fajardo,"Planadas, Tolima",91.18,Geisha,Washed
+2b,6 (+1 partial),La España 1,Duberney Cifuentes Fajardo,"Planadas, Tolima",91.18,Geisha,Washed
+3a,7,Manantiales del Frontino,Andres Londoño Montoya,"Montenegro, Quindio",91,Geisha,Washed
+3b,7,Manantiales del Frontino,Andres Londoño Montoya,"Montenegro, Quindio",91,Geisha,Washed
+4a,8,Las Cuevas,Robinson Olivera,"Planadas, Tolima",90.91,Colombia,Washed
+4b,8,Las Cuevas,Robinson Olivera,"Planadas, Tolima",90.91,Colombia,Washed
+5a,3,El Cairo,Eiver Leonardo Gomez Melo,"Consaca, Nariño",90.85,Caturra Colombia Typica,Washed
+5b,3,El Cairo,Eiver Leonardo Gomez Melo,"Consaca, Nariño",90.85,Caturra Colombia Typica,Washed
+6a,7,El Mirador 1,Alba Diela López Riascos,"Buesaco, Nariño",90.79,Caturra Colombia Castillo,Honey
+6b,7,El Mirador 1,Alba Diela López Riascos,"Buesaco, Nariño",90.79,Caturra Colombia Castillo,Honey
+7a,6 (+1 partial),El Cairo,Lucas German Melo,"Consaca, Nariño",90.53,Caturra Colombia Typica,Washed
+7b,6 (+1 partial),El Cairo,Lucas German Melo,"Consaca, Nariño",90.53,Caturra Colombia Typica,Washed
+8a,6 (+1 partial),El Brasil,Duvier Tibaguy Guevara,"Planadas, Tolima",90.24,Caturra Typica,Washed
+8b,6(+1 partial),El Brasil,Duvier Tibaguy Guevara,"Planadas, Tolima",90.24,Caturra Typica,Washed
+9a,19,El Plan,Juan Bautista Lasso Bolaños,"San Pedro Cartago, Nariño",90.21,Caturra,Washed
+9b,19,El Plan,Juan Bautista Lasso Bolaños,"San Pedro Cartago, Nariño",90.21,Caturra,Washed
+10,13,El Paraiso,Diego Samuel Bermudez Tapia,"Piendamo, Cauca",89.76,Bourbón,Double Anaerobic
+11,19,El Paraiso,Jose Gomez,"Buesaco, Nariño",88.85,Caturra,Washed
+12,27,El Vergel,Juval Antonio Gutierrez,"Santa Maria, Huila",87.65,Caturra Colombia,Washed
+13,13,El Diviso,Linarco Rodriguez Ospina,"Palestina, Huila",87.62,Caturra Typica,Washed
+14,24,Llano Redondo,Angel Maria Lopez Imbajoa,"Buesaco, Nariño",87.53,Caturra Castillo,Washed
+15,13,Mexico,Milton Vicente Narvaez Jurado,"Buesaco, Nariño",87.5,Colombia Castillo,Washed
+16,13 (+1 partial),Los Alpez,Amparo Pajoy,"La Plata, Huila",87.38,Caturra Colombia,Washed
+17,14,Mirador – El Naranjo,Rodrigo Arley Diaz Diaz,"Buesaco, Nariño",87.32,Caturra Colombia,Washed
+18,14,Villa Martinez,Gustavo Ramos,"Gigante, Huila",87.24,Caturra,Washed
+19,23 (+1 partial),Cuchilla Loma Gorda,Guillermo Leon Valencia Burbano,"Buesaco, Nariño",87.21,Caturra,Washed
+20,27,El Trapiche,Marco Avelio Lasso Muñoz,"San Pedro Cartago, Nariño",87.12,Caturra,Honey
+21,19,Buena Vista,Edgar Motta Vargas,"Acevedo, Huila",87.03,Bourbón,Washed
+22,13,Quijiana,Fernando Garcia Contreras,"Pital, Huila",87,Caturra,Washed
+23,27,Casa Blanca,Darwin Fernandez Narvaez,"La Unión, Nariño",86.97,Caturra,Honey
+24,15,Altos de la Colina,Oscar James Jurado Andrade,"Buesaco, Nariño",86.94,Caturra Maragogype,Washed
+25,27,El Salado,Luis Alfredo Lopez Loaiza,"Buesaco, Nariño",86.88,Caturra Castillo,Washed
+26,13 (+1 partial),El Naranjo,Yilmer Fabian Tunubala,"Inza, Cauca",86.85,Bourbón,Washed
+27,22 (+1 partial),Loma Gorda,Moises Hernando Valencia,"Buesaco, Nariño",86.18,Caturra,Washed
