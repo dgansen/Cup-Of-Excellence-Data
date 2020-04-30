@@ -1,0 +1,24 @@
+RANK,WEIGHT (kg),FARM,FARMER,REGION,SCORE,VARIETY,PROCESS
+1a,210,Las Macadamias,"Las Macadamias, Sociedad Anonima",Huehuetenango,90.16,Pacamara,Natural
+1b,160.35,Las Macadamias,"Las Macadamias, Sociedad Anonima",Huehuetenango,90.16,Pacamara,Natural
+2a,480,Kalibus la Sierra,"Castillo Cerezo, Pompeyo",El Progreso,90.14,Gesha,Washed
+2b,426.8,Kalibus la Sierra,"Castillo Cerezo, Pompeyo",El Progreso,90.14,Gesha,Washed
+3a,270,El Injerto I,El Injerto Sociedad Anonima,Huehuetenango,90.03,Pacamara,Washed
+3b,239.7,El Injerto I,El Injerto Sociedad Anonima,Huehuetenango,90.03,Pacamara,Washed
+4,498.85,Río Dorado,"Monterroso Pineda, Jose Roberto",Jalapa,89.98,Pacamara,Natural
+5,631.8,Villaure,"Villatoro Castillo, Aurelio",Huehuetenango,89.72,Caturra,Washed
+6,435.25,Los Lirios,"San Isidro Chacaya, S. A.",Sololá,89.42,Typica,Washed
+7,429,La Reforma y Anexos,"La Reforma Y Asociados, S. A.",Huehuetenango,89.41,Gesha,Washed
+8,427.5,El Morito,"Monterroso Pineda, Jose Roberto",Jalapa,89.25,Gesha,Washed
+9,470.35,El Centro,"Valladares Rodriguez,Inmer Abel",Jalapa,88.83,Gesha,Washed
+10,424.55,San Antonio Chaguité,"Agropecuaria San Antonio Quenene, S. A.",Huehuetenango,88.17,"Gesha, Caturra, Typica",Washed
+11,403,Chualax,"Agrocomercial Santa Felisa, Sociedad Anonima",Chimaltenango,88.16,Gesha,Natural
+12,823.1,Plan de la Vega,"Argueta Herrera, Erwin Humberto",Huehuetenango,88.11,"Caturra, Maragogype, Typica",Washed
+13,514.75,Los Aguacatones,"De La Peña Illescas, Rosa Maria",Huehuetenango,88,"Typica, Bourbón, Villa Sarchi",Washed
+14,371.8,Jauja y Anexos,"Operadora Santa Clara, Sociedad Anonima",Sacatepéquez,87.92,Gesha,Washed
+15,812.85,Guatalon,"Juarez Solares, Guillermo Antonio",Santa Rosa,87.8,"Pacamara, Maragogype",Washed
+16,576.6,El Zapote y Anexos,"Perez Perez, Wilfrido Hernan",Huehuetenango,87.78,Gesha,Washed
+17,440,Las Rosas,"Villatoro Villatoro, Rolando Belarmino",Huehuetenango,87.77,Gesha,Washed
+18,880.05,Santa Irene,"Porlamar, S. A.",Baja Verapaz,87.52,Catuaí,Washed
+19,417.7,San Rafael,"Martinez Villatoro, Gerson Adoni",Huehuetenango,87.45,Maracaturra,Washed
+20,763.7,El Libano,"Perez Liquidano, Herbert Estuardo",Chimaltenango,87.16,Gesha,Washed
