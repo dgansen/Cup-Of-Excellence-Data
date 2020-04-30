@@ -1,0 +1,42 @@
+RANK,SIZE,FARM / CWS,FARMER / REPRESENTATIVE,REGION,SCORE,VARIETY,PROCESSING
+1A,5,San Francisco,Fabio Antonio Caballero Martinez,"Marcala, La Paz",93.43,Geisha Emperador,Washed
+1B,5,San Francisco,Fabio Antonio Caballero Martinez,"Marcala, La Paz",93.43,Geisha Emperador,Washed
+2A,4,Los Pinos,Remiery Orlando Carvajal Guevara,"San Andres, Lempira",92.64,Typica,Washed
+2B,4,Los Pinos,Remiery Orlando Carvajal Guevara,"San Andres, Lempira",92.64,Typica,Washed
+3A,7,Nacimiento # 2,Fani Yeselia Moreno Lopez,"Santa Barbara, Santa Barbara",91.18,Pacas,Washed
+3B,6,Nacimiento # 2,Fani Yeselia Moreno Lopez,"Santa Barbara, Santa Barbara",91.18,Pacas,Washed
+4A,5,EL Plan,Leonela Villanueva Pineda,"Santa Barbara, Santa Barbara",90.04,Pacas,Washed
+4B,4,EL Plan,Leonela Villanueva Pineda,"Santa Barbara, Santa Barbara",90.04,Pacas,Washed
+5A,5,La Montaña,Jose Santos Guevara Lopez,"Santa Ana, La Paz",90.04,Lempira,Natural
+5B,5,La Montaña,Jose Santos Guevara Lopez,"Santa Ana, La Paz",90.04,Lempira,Natural
+6,16,La Laguna,Carlos Alberto Argueta Mejia,"Santiago De Puringla, La Paz",89.86,Catimore,Honey
+7,10,La Montañita,Evin Joel Moreno Reyes,"Las Vegas, Santa Barbara",89.04,Pacas,Washed
+8,12,El Espejo,Fredi Leonel Castellanos Hernandez,"Las Vegas, Santa Barbara",89.04,Pacas,Washed
+9,10,El Trapiche,Eugenio Muñoz Teruel,"Santa Barbara, Santa Barbara",88.79,Parainema,Washed
+10,11,El Cielito Lindo,Extreberto Caceres Gutierrez,"Santa Barbara, Santa Barbara",88.71,Pacas,Washed
+11,14,Los Chorritos,Donulfo Midence,"Teupasenti, El Paraiso",88.18,Parainema,Washed
+12,13,Las Tres Peñas,Duvis Alexis Moreno Reyes,"Las Vegas, Santa Barbara",87.93,Pacas,Washed
+13,8,Don Andres,Josue Nahun Fernandez Sabillon,"Santa Barbara, Santa Barbara",87.89,Parainema,Washed
+14,9,El Brujo,Benjamin Paz Muñoz,"Concepcion del Sur, Santa Barbara",87.86,Parainema,Washed
+15,8,El Naranjo,Carmen Fabiola Fiallos Melendez,"Marcala, La Paz",87.79,Catuai,Washed
+16,19,Moreno,Pedro Moreno,"Las Vegas, Santa Barbara",87.75,Bourbon,Washed
+17,11,La Sierra,Osman Pineda Alvarado,"Las Vegas, Santa Barbara",87.71,Parainema,Washed
+18,10,Nacimiento # 1,Job Neel Cacerez Diaz,"Santa Barbara, Santa Barbara",87.68,Pacas,Washed
+19,12,Patriarca,Martin Galeas Mejia,"Santiago De Puringla, La Paz",87.57,Ihcafe-90,Washed
+20,26,Jeackeline,Angel Ruben Aplicano,"Trojes, El Paraiso",87.57,Parainema,Washed
+21,24,El Ocote,Pedro Sagastume Enamorado,"Santa Barbara, Santa Barbara",87.5,Parainema,Washed
+22,14,Los Robles,Sergio Enamorado Moreno,"Las Vegas, Santa Barbara",87.46,Pacas,Washed
+23,9,Chely,Nelson Rene Ramirez Rosa,"Santa Barbara, Santa Barbara",87.46,Pacas,Semi-Washed
+24,14,El Paraiso,Wil Edilberto Armijo,"Las Vegas, Santa Barbara",87.43,Ihcafe-90,Honey
+25,11,Los Colibries,Ronnie Alfredo Gabrie Salles,"Santa Barbara, Santa Barbara",87.07,Parainema,Washed
+26,24,El Rincon,Anner Joad Gonzalez Sanchez,"Danli, El Paraiso",87,Parainema,Washed
+27,10,Limoncito,Roberto Serafin Ramirez Fernandez,"La Encarnacion, Ocotepeque",86.93,Parainema,Washed
+28,7,El Sauce,Esteban Madrid Chavez,"Santa Barbara, Santa Barbara",86.79,Pacas,Washed
+29,9,Los Cedros,Juan Manuel Hernandez Lopez,"Morazan, Yoro",86.79,Ihcafe-90,Natural
+30,11,La Colmena,Angel Arturo Paz Ramirez,"Santa Barbara, Santa Barbara",86.71,Red Catuai,Washed
+31,18,La Leona,Nelson Omar Tinoco Madrid,"Concepcion del Sur, Santa Barbara",86.71,Pacas,Washed
+32,10,El Tanque,Danny Gabriel Moreno Leiva,"Las Vegas, Santa Barbara",86.64,Pacas,Washed
+33,22,Mi Montaña,Angel Augusto Valenzuela Ulloa,"Victoria, Yoro",86.57,Ihcafe-90,Washed
+34,15,Las Botijas,Jose Abel Giron Duron,"Villa San Antonio, Comayagua",86.29,Pacamara,Washed
+35,10,Cristal,Jose Esteban Madrid Villanueva,"Santa Barbara, Santa Barbara",86.29,Pacas,Washed
+36,8,Patepluma,Franklin Adonis Madrid Villanueva,"Santa Barbara, Santa Barbara",86.07,pacas,Washed

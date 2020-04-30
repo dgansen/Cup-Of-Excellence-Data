@@ -1,0 +1,35 @@
+RANK,WEIGHT (kg),FARM,FARMER,REGION,SCORE,VARIETY,PROCESS
+1a,210,Santa Lucia,Desarrollos Santa Lucia S.A.,Comayagua,94.84,Gesha,Washed
+1b,180,Santa Lucia,Desarrollos Santa Lucia S.A.,Comayagua,94.84,Gesha,Washed
+2a,420,Las Flores,Roger Antonio Dominguez Marquez,La Paz,92.25,Catuai,Natural
+2b,390,Las Flores,Roger Antonio Dominguez Marquez,La Paz,92.25,Catuai,Natural
+3a,210,La Sierra,Alma Aydee Pineda Alvarado,Santa Barbara,91.84,Pacas,Washed
+3b,180,La Sierra,Alma Aydee Pineda Alvarado,Santa Barbara,91.84,Pacas,Washed
+4,345,El Nacimiento No. 1,Job Neel Cacerez Diaz,Santa Barbara,90.45,Bourbon,Washed
+5,345,El Guayabo,Mario Alexis Moreno Leiva,Santa Barbara,90.36,Pacas,Natural
+6,360,Los Pinos,Reniery Orlando Carvajal Guerra,Lempira,90.23,Typica,Honey
+7,600,Patepluma,Franklin Adonis Madrid Villanueva,Santa Barbara,89.88,Pacas,Washed
+8,360,La Lima,Miguel Alfredo Lopez Alvarado,Lempira,89.2,Gesha,Washed
+9,360,Los Pinos,Iris Dariela Carvajal Bonilla,Lempira,89.05,Typica,"Honey (Semi-
+Washed)"
+10,660,Las Cascadas,Fredy Dagoberto Nolasco Calix,La Paz,88.8,Mezcla,Washed
+11,435,El Limo,Jose Rumaldo Moreno Reyes,Santa Barbara,88.5,Pacas,Washed
+12,390,Las Nieblas,Alexi Edgardo Moreno Castellon,Santa Barbara,88.29,Bourbon,Washed
+13,435,Cielito Lindo,Extreberto Caceres Gutierrez,Santa Barbara,88.29,Pacas,Washed
+14,375,Pino De Oro,Oscar Edgardo Tinoco Madrid,Santa Barbara,88.14,Pacas,Washed
+15,450,Los Primos,Reynaldo Muñoz Lopez,Santa Barbara,88.14,Pacas,Washed
+16,450,Los Robles,Sergio Enamorado Moreno,Santa Barbara,87.96,Pacas,Washed
+17,390,El Espejo,Fredi Leonel Castellanos Hernandez,Santa Barbara,87.96,Pacas,Washed
+18,690,El Roble,Rosa Dimas Funez Macias,Comayagua,87.89,Mezcla,Honey
+19,390,El Sol,Ariel Murcia Pinto,Santa Barbara,87.89,Parainema,Anaerobic
+20,420,Moreno,Pedro Moreno,Santa Barbara,87.86,Bourbon,Washed
+21,360,El Aguacate,Donaldo Dubon Caballero,Santa Barbara,87.8,Pacas,Washed
+22,510,Bella Vista,Alex Ramon Ponce Rodriguez,La Paz,87.63,Catuai,Washed
+23,450,Choly,Williams Enrrique Gomez Maradiaga,Comayagua,87.61,Parainema,Washed
+24,450,Liquidambar,Ma Nery Marquez Granados,La Paz,87.57,Bourbon,Natural
+25,420,Las Pilas,Nelson Omar Tinoco Madrid,Santa Barbara,87.5,Pacas,Washed
+26,585,Los Chorritos,Donulfo Midence,El Paraiso,87.5,Parainema,Washed
+27,525,Mira Valle,Miroslav Cuculiza,Francisco Morazan,87.46,Catuai,Washed
+28,645,Cual Bicicleta,Oscar Omar Alonzo Aguilar,La Paz,87.39,Catuai,Washed
+29,405,Las Gemelas,Nely Suyapa Orellana Aguilar,Copan,87.21,Catuai Rojo,Natural
+30,390,Pacaya,Santos Benito Godoy Ferrera,El Paraiso,87.16,Parainema,Washed

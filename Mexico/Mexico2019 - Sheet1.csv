@@ -1,0 +1,32 @@
+RANK,WEIGHT (kg),FARM,FARMER,REGION,SCORE,VARIETY,PROCESS
+1a,150,Santa Cruz,Cruz José Arguello Miceli,"La Concordia, Chiapas",93.07,Gesha,Natural
+1b,120,Santa Cruz,Cruz José Arguello Miceli,"La Concordia, Chiapas",93.07,Gesha,Natural
+2a,265,Don Rafa,Byeong Soo Kim,"Las Margaritas, Chiapas",91.14,Pache,Natural
+2b,240,Don Rafa,Byeong Soo Kim,"Las Margaritas, Chiapas",91.14,Pache,Natural
+3a,206,Dinastia Altamirano,Samuel Altamirano Juarez,"Zongolica, Veracruz",90.32,Bourbón,Honey
+3b,180,Dinastia Altamirano,Samuel Altamirano Juarez,"Zongolica, Veracruz",90.32,Bourbón,Honey
+4,420,La Ilusión,Federico Barrueta Barrueta,"Temascaltepec, Estado de Mexico",90.13,Bourbón,Washed
+5,385,Huehuetecpan,Francisco Javier Montiel Valencia,"Cosautlán de Carvajal, Veracruz",90,Bourbón,Washed
+6,360,El Equimite,Rodolfo Jiménez López,"Naolinco, Veracruz",89.7,Pacamara,Washed
+7,390,San Rafael,Maria Alejandra Ramírez Moreno,"Coatepec, Veracruz",89.64,Costa Rica 95,Washed
+8,750,Finca Consolapan,María Cristina Ávila Camberos,"Coatepec, Veracruz",89.63,Garnica,Washed
+9,360,Los Remedios,Gema Contreras Quezada,"Emiliano Zapata, Veracruz",89.55,Gesha,Washed
+10,418,Fátima,Givette Pérez Orea,"Coatepec, Veracruz",89.41,Typica / Típica,Washed
+11,354,Ocoteno,Miguel Ronquillo Aco,"Huitzilan de Serdán, Puebla",88.36,Marsellesa,Washed
+12,240,Xoxohuico,Carlos Garcia Campillo,"Huitzilan de Serdán, Puebla",88.29,Garnica,Natural Double Fermentation
+13,570,El Mirador,Martha Elizabeth Ortíz Morales,"Cosautlán de Carvajal, Veracruz",88.21,Bourbón,Washed
+14,450,San Rafael,Santos Montiel Ochoa,"Cosautlán de Carvajal, Veracruz",87.86,Bourbón,Washed
+15,387,Las Trincheras,José Cienfuegos García,"Tlaltetela, Veracruz",87.82,Pacamara,Washed
+16,930,Cañada Fría,José Daniel Cobilt Castro,"Tlaltetela, Veracruz",87.77,Bourbón,Washed
+17,360,El Paredón,Celia Leticia Sosa Cotés,"Huitzilan de Serdán, Puebla",87.71,Bourbón,Honey
+18,390,El Huerto,José Hernández García,"Atoyac de Álvarez, Guerrero",87.57,Bourbón,Washed
+19,330,La Isla,Gustavo Alfonso Ramírez Moreno,"Teocelo, Veracruz",87.54,Costa Rica 95,Washed
+20,1013,El Coronel,Ruben García Rodriguez,"Totutla, Veracruz",87.5,Bourbón,Washed
+21,750,Las Crucesitas,Apolinar Hernández Arellano,"Atoyac de Álvarez, Guerrero",87.43,Bourbón,Natural
+22,450,El Cajel,Roberto Hernández García,"Atoyac de Álvarez, Guerrero",87.32,Bourbón,Washed
+23,508,El Bordo,Francisco Gerardo Durán Durán,"Cosautlán de Carvajal, Veracruz",87.3,Caturra,Washed
+24,900,Dos mujeres,David Alonso lopez Morales,"Las Margaritas, Chiapas",87.27,Pache,Washed
+25,450,Las Nubes,Manuel Sánchez López,"La Concordia, Chiapas",87.25,Bourbón,Washed
+26,1103,Huehuetepan,María del Rosario Irais Valdivia Ortíz,"Cosautlán de Carvajal, Veracruz",87.21,Mundo Nuevo,Washed
+27,450,El Platanar,Daniel Sánchez López,"La Concordia, Chiapas",87.18,Bourbón,Washed
+28,388,La Rinconada,Domingo Fonseca Morales,"Teopisca, Chiapas",87,Catimor,Washed

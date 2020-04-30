@@ -1,0 +1,33 @@
+RANK,SIZE,FARM / CWS,FARMER / REPRESENTATIVE,REGION,SCORE,VARIETY,PROCESSING
+1a,4,Finca Peña Blanca,Jose Renteria Larios,"Cuatitlan De Garcia Barragan, Jalisco",90.7,"Caturra Rojo, Marsellesa, Sarchimor",Natural
+1b,4,Finca Peña Blanca,Jose Renteria Larios,"Cuatitlan De Garcia Barragan, Jalisco",90.7,"Caturra Rojo, Marsellesa, Sarchimor",Natural
+2a,6,Finca la ilusión,Federico Barrueta Barrueta,"Temascaltepec, Estado De Mexico",90.47,"Borbón, bourbon, Caturra",Washed
+2b,5,Finca la ilusión,Federico Barrueta Barrueta,"Temascaltepec, Estado De Mexico",90.47,"Borbón, bourbon, Caturra",Washed
+3a,5,Cruz Verde,Gabriel Bernard Rivas Ross,"Totutla, Veracruz",90.2,Pacamara,Washed
+3b,5,Cruz Verde,Gabriel Bernard Rivas Ross,"Totutla, Veracruz",90.2,Pacamara,Washed
+4a,7,Santa Cruz,Selestino Lopez Partos,"La Concordia, Chiapas",90.03,"Borbón, Typica",Washed
+4b,7,Santa Cruz,Selestino Lopez Partos,"La Concordia, Chiapas",90.03,"Borbón, Typica",Washed
+5,12,Finca Las Chicharras,Lee Young Yong,"Ángel Albino Corzo, Chiapas",89.6,"Catimor, Catuai, Caturra",Washed
+6,16,El Mirador,Leon Mendoza Odilon,"Zihuatanejo De Azueta, Guerrero",89.4,Borbón,Natural
+7,18,Finca Los Cimentos,Roman Mendoza Odilon,"Zihuatanejo De Azueta, Guerrero",89.27,Borbón,Natural
+8,19,Finca El Aserradero,Marcelo Garcia Hernandez,"Atoyac De Alvarez, Guerrero",88.93,Typica,Washed
+9,10,Cañada Fría,José Daniel Cóbilt Castro,"Tlaltetela, Veracruz",88.83,"Borbón, Caturra, Pacamara",Washed
+10,7,Poxtla,María Victoria Marini Debernardi,"Tlaltetela, Veracruz",88.7,"Borbón, Typica",Washed
+11,15,Finca Huehuetecpan,Francisco Javier Montiel Valencia,"Cosautlan De Carvajal, Veracruz",87.8,"Caturra, GARNICA, Mundo Novo",Washed
+12,12,Tlanyehualapan 1,Joaquin Rodriguez Fernandez,"Xico, Veracruz",87.7,"Borbón, Caturra, Typica",Washed
+13,13,Agroforestal Chanjul,Edward Andres Esteve Creixell,"Tapachula, Chiapas",87.63,Hibridos,Natural
+14,14,El Equimite,Rodolfo Jimenez Lopez,"Naolinco, Veracruz",87.47,Pacamara,Washed
+15,11,Kassandra,Guillermo Rivas Diaz,"Totutla, Veracruz",87.4,Pacamara,Washed
+16,20,Nuevo Paraíso,B Eutimio Luna Ramirez,"San Agustín Loxicha, Oaxaca",87.37,"Mundo Novo, Typica",Washed
+17,12,El Rincon,Rodolfo Jimenez Ruedas,"Naolinco, Veracruz",87.3,Garenica,Natural
+18,15,El Naranjal,Pedro Pedro Pérez,"San Agustín Loxicha, Oaxaca",87.27,"Mundo Novo, Typica",Washed
+19,16,Sana-Ite & La Cumbre Loma,"Félix Faustino García López, Franciscano Guadalupe García Ortíz","Santa María Yucuhiti, Oaxaca",87.23,"Mundo Novo, Typica",Washed
+20,16,"Stun Kava, Lomu Yu Kuiyo","Claudio Ernesto López Avendaño, Matias López Ayala","Santiago Nuyoo, Oaxaca",87.2,"Caturra, Mundo Novo, Typica",Washed
+21,21,El Naranjal & Copalillo,"Ubaldo Máximo Pérez González, José Luis Lopéz García","Santa María Yucuhiti, Oaxaca",87.03,"Caturra, Mundo Novo, Typica",Washed
+22,18,Finca Pocitos,Jesus Carlos Cadena Valdivia,"Cosautlán De Carvajal, Veracruz",87,"Sarchimor, Typica",Washed
+23,14,"Ita Nuni, Carrizal & Mangal","Antolín Rogelio López, Froylan Putarco López, Antonia Valeria Ortiz España","Santa María Yucuhiti, Oaxaca",86.97,"Borbón, Mundo Novo",Washed
+24,30,San Pablo,Carlos Alberto Audelo Holm,"San Miguel Del Puerto, Oaxaca",86.97,"Borbón, Mundo Novo",Washed
+25,24,Finca El Encanto,Guadalupe Sanchez Sandoval,"Atoyac De Alvarez, Guerrero",86.63,Typica,Natural
+26,9,El Sabino,Teodoro Ruiz Casimiro,"Maztlan Villa De Flores, Oaxaca",86.57,"Borbón, Caturra, Mundo Novo",Washed
+27,16,Monte Grande & Las trancas,"Juana Petra García López, Edilberto Eugenio García López","Santa María Yucuhiti, Oaxaca",86.57,"Caturra, Mundo Novo, Typica",Washed
+28,10,La Barrigona-{ORG},Hilda Bautista Guerrero,"Eloxochitlán De Flores Magón, Oaxaca",86.27,Typica,Washed
