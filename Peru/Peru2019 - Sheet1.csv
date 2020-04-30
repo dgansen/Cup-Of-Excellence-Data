@@ -1,0 +1,25 @@
+RANK,WEIGHT (kg),FARM,FARMER,REGION,SCORE,VARIETY,PROCESS
+1a,180,La Lucuma,Grimanes Morales Lizana,Cajamarca,92.28,Costa Rica 95,Washed
+1b,192,La Lucuma,Grimanes Morales Lizana,Cajamarca,92.28,Costa Rica 95,Washed
+2a,180,Nuevo Progreso,Lucio Luque Vasquez,Cusco,91.44,Gesha Bourbon Blend,Washed
+2b,179,Nuevo Progreso,Lucio Luque Vasquez,Cusco,91.44,Gesha Bourbon Blend,Washed
+3a,210,Agua Dulce,Junior Guido Flores Elera,Cajamarca,91.4,Catuai,Washed
+3b,204,Agua Dulce,Junior Guido Flores Elera,Cajamarca,91.4,Catuai,Washed
+4,328.1,Romerillo,Franklin Chingel Morales,Cajamarca,90.88,Bourbon,Washed
+5,530,Perla Mayo,Luz Nelli Alarcon Estela,Cajamarca,90.47,"Caturra Rojo, Typica, Caturra Amarillo, Bourbon",Washed
+6,401,Santa Sofia,Eleuterio Bolaños Torresillas,Junin,90.29,"Caturra, Bourbon",Washed
+7,503.5,Monte Rey,Felix Cachay Cueva,Junin,89.69,Caturra,Washed
+8,369.5,Morales,Roiber Elit Becerra Fernandez,Amazonas,89.32,Caturra,Washed
+9,380.6,Nueva Alianza,Dwight Aguilar Masias,Cusco,89.18,Gesha,Washed
+10,552,Esmeralda,Fabian Ortiz Coaquira,Junin,88.96,"Caturra, Gesha, Bourbon, Catimor",Washed
+11,515,La Palestina,Zobeida Alarcon Coronel,Cajamarca,88.75,"Bourbon, Caturra, Catimor",Washed
+12,466,El Lechero,Idelio Ulises Nayra Armijor,Cajamarca,88.75,"Caturra, Catuai, Bourbon,",Washed
+13,294,El Cedro,Nilson Silva Diaz,Amazonas,88.64,"Gesha, Typica",Washed
+14,330,Las Orquideas,Amancio Zuñiga Aquino,Huanuco,88.64,Hibrido Bourbon,Washed
+15,533.6,La Perla,Rafael Arevalo Apolinar,Cajamarca,88.63,Caturra,Washed
+16,412.5,Oropeza,Cruz Rodriguez Ortiz,Junin,88.18,"Caturra, Bourbon, Typica",Washed
+17,452.8,Picorana,Jose Cristian Lavan Guerreo,Cajamarca,88.14,"Caturra, Gesha",Washed
+18,347.6,El Progreso,Agustin Cassa Ccoyo,Cusco,87.72,"Bourbon, Caturra, Catimor",Washed
+19,636.9,La Fila,Evaristo Castro Tantalean,Cajamarca,87.58,"Caturra, Costa Rica",Washed
+20,340.2,Altos Cedruyoc,Juan Jose Huillca Singuña,Cusco,87.36,"Bourbon, Mondonovo",Washed
+21,448.4,Parcela Cenfrocafe- Huabal,Jose Martin Vega Segovia,Cajamarca,87.33,H1,Honey
